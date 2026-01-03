@@ -48,10 +48,10 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 - **344. Reverse String**  
   👉 [View Solution](./Strings/344_Reverse_String.py)
 
-- **26. Remove Duplicates from Sorted Array** ⭐ *(NEW)*  
+- **26. Remove Duplicates from Sorted Array** 
   👉 [View Solution](./Arrays/26_RemoveDuplicatesFromSortedArray.py)
 
-- **283. Move Zeroes** ⭐ *(NEW)*  
+- **283. Move Zeroes**  
   👉 [View Solution](./Arrays/283_MoveZeroes.py)
 
 ---

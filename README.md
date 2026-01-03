@@ -7,7 +7,7 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 ---
 
 ## 📊 Progress
-**Problems Solved:** **8** ✅  
+**Problems Solved:** **10** ✅  
 *(Continuously updating)*
 
 ---

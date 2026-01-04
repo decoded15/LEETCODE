@@ -7,7 +7,7 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 ---
 
 ## 📊 Progress
-**Problems Solved:** **10** ✅  
+**Problems Solved:** **12** ✅  
 *(Continuously updating)*
 
 ---
@@ -16,13 +16,13 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 
 ### 🔹 Arrays / Hashing
 - **1. Two Sum**  
-  👉 [View Solution](./Arrays/1_two_sum.py)
+  👉 [View Solution](./Arrays/1_Two_Sum.py)
 
 - **217. Contains Duplicate**  
-  👉 [View Solution](./Arrays/217_duplicates.py)
+  👉 [View Solution](./Arrays/217_Duplicates.py)
 
 - **242. Valid Anagram**  
-  👉 [View Solution](./Strings/242_valid_anagram.py)
+  👉 [View Solution](./Strings/242_Valid_Anagram.py)
 
 ---
 
@@ -48,11 +48,17 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 - **344. Reverse String**  
   👉 [View Solution](./Strings/344_Reverse_String.py)
 
-- **26. Remove Duplicates from Sorted Array** 
+- **26. Remove Duplicates from Sorted Array**  
   👉 [View Solution](./Arrays/26_RemoveDuplicatesFromSortedArray.py)
 
 - **283. Move Zeroes**  
   👉 [View Solution](./Arrays/283_MoveZeroes.py)
+
+- **11. Container With Most Water**   
+  👉 [View Solution](./Arrays/11_ContainerWithMostWater.py)
+
+- **42. Trapping Rain Water**  
+  👉 [View Solution](./Arrays/42_TrappingRainWater.py)
 
 ---
 

@@ -60,6 +60,12 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 - **42. Trapping Rain Water**  
   👉 [View Solution](./Arrays/42_TrappingRainWater.py)
 
+- **27. Remove Element**   
+  👉 [View Solution](./Arrays/27_RemoveElement.py)
+
+- **977. Squares of a Sorted Array**  
+  👉 [View Solution](./Arrays/977_SquaresOfASortedArray.py)
+
 ---
 
 ## 🧠 Notes

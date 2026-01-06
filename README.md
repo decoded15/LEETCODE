@@ -7,7 +7,7 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 ---
 
 ## 📊 Progress
-**Problems Solved:** **14** ✅  
+**Problems Solved:** **16** ✅  
 *(Continuously updating)*
 
 ---
@@ -65,6 +65,12 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 
 - **977. Squares of a Sorted Array**  
   👉 [View Solution](./Arrays/977_SquaresOfASortedArray.py)
+
+- **169. Majority Element**   
+  👉 [View Solution](./Arrays/169_MajorityElement.py)
+
+- **189. Rotate Array**   
+  👉 [View Solution](./Arrays/189_RotateArray.py)
 
 ---
 

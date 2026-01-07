@@ -39,6 +39,9 @@ The goal is to build strong problem-solving fundamentals by understanding patter
 - **238. Product of Array Except Self**  
   👉 [View Solution](./Arrays/238_ProductOfArrayExceptSelf.py)
 
+- **724. Find Pivot Index**  
+  👉 [View Solution](./Arrays/724_PivotIndex.py)
+
 ---
 
 ### 🔹 Two Pointers

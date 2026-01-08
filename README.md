@@ -2,7 +2,25 @@
 
 This repository contains my solutions to **Data Structures & Algorithms (DSA)** problems from **LeetCode**, implemented in **Python**.
 
-The goal is to build strong problem-solving fundamentals by understanding patterns and writing clean, efficient code.
+## 📘 Python DSA Handbook
+I’ve created a beginner-friendly Python handbook to make starting LeetCode less intimidating.
+It covers:
+- Python basics (for absolute beginners)
+- Built-in functions used in DSA
+- Important problem-solving patterns
+
+📘 **Handbook:** [LEET Handbook.pdf](Handbook/LEET%20Handbook.pdf)
+
+This handbook is meant to be a **comfort guide** — not a shortcut.
+
+## 🧩 Problem Solving Approach
+- Focus on understanding patterns
+- Start with Easy problems
+- Prioritize clarity over speed
+- Revisit mistakes and learn from them
+
+## 🎯 Goal
+Build strong DSA fundamentals using Python and stay consistent with practice.
 
 ---
 

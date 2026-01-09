@@ -42,10 +42,10 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **242. Valid Anagram**  
   👉 [View Solution](./Strings/242_Valid_Anagram.py)
 
-- **268. Missing Number** ⭐ *(NEW)*  
+- **268. Missing Number**   
   👉 [View Solution](./Arrays/268_MissingNumber.py)
 
-- **350. Intersection of Two Arrays II** ⭐ *(NEW)*  
+- **350. Intersection of Two Arrays II**   
   👉 [View Solution](./Arrays/350_IntersectionOfArraysII.py)
 
 ---

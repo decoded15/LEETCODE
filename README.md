@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **19** ✅  
+**Problems Solved:** **20** ✅  
 *(Continuously updating)*
 
 ---
@@ -47,6 +47,9 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 - **350. Intersection of Two Arrays II**   
   👉 [View Solution](./Arrays/350_IntersectionOfArraysII.py)
+
+- **66. Plus One** 
+  👉 [View Solution](./Arrays/66_PlusOne.py)
 
 ---
 

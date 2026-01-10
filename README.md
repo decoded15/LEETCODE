@@ -66,11 +66,11 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **121. Best Time to Buy and Sell Stock**  
   👉 [View Solution](./Arrays/121_Best_Buy_&_Sell.py)
 
-- **53. Maximum Subarray**  
-  👉 [View Solution](./Arrays/53_Maximum_Subarray.py)
-
 - **238. Product of Array Except Self**  
   👉 [View Solution](./Arrays/238_ProductOfArrayExceptSelf.py)
+
+- **53. Maximum Subarray**  
+  👉 [View Solution](./Arrays/53_Maximum_Subarray.py)
 
 - **724. Find Pivot Index**  
   👉 [View Solution](./Arrays/724_PivotIndex.py)

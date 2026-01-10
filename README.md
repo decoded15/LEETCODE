@@ -35,7 +35,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 ## ✅ Problems Solved
 
-### 🔹 Arrays / Hashing
+### 🔹 Arrays
 - **1. Two Sum**  
   👉 [View Solution](./Arrays/1_Two_Sum.py)
 
@@ -58,32 +58,23 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
   👉 [View Solution](./Arrays/3_LongestSubWithoutRepeatingChars.py)
 
 - **122. Best Time to Buy and Sell Stock II**
-  👉 [View Solution](./Arrays/122_Buy&Sell%20II.py)
+  👉 [View Solution](./Arrays/122_Buy&Sell_II.py)
 
 - **128. Longest Consecutive Sequence**
   👉 [View Solution](./Arrays/128_Longest_Consecutive_Sequence.py)
 
----
-
-### 🔹 Sliding Window / Kadane’s Algorithm
 - **121. Best Time to Buy and Sell Stock**  
   👉 [View Solution](./Arrays/121_Best_Buy_&_Sell.py)
 
 - **53. Maximum Subarray**  
   👉 [View Solution](./Arrays/53_Maximum_Subarray.py)
 
----
-
-### 🔹 Prefix / Suffix
 - **238. Product of Array Except Self**  
   👉 [View Solution](./Arrays/238_ProductOfArrayExceptSelf.py)
 
 - **724. Find Pivot Index**  
   👉 [View Solution](./Arrays/724_PivotIndex.py)
 
----
-
-### 🔹 Two Pointers
 - **125. Valid Palindrome**  
   👉 [View Solution](./Strings/125_Valid_Palindrome.py)
 

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **20** ✅  
+**Problems Solved:** **23** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -53,6 +53,15 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 - **66. Plus One** 
   👉 [View Solution](./Arrays/66_PlusOne.py)
+
+- **3. Longest Substring Without Repeating Characters**
+  👉 [View Solution](./Arrays/3_LongestSubWithoutRepeatingChars.py)
+
+- **122. Best Time to Buy and Sell Stock II**
+  👉 [View Solution](./Arrays/122_Buy&Sell%20II.py)
+
+- **128. Longest Consecutive Sequence**
+  👉 [View Solution](./Arrays/128_Longest_Consecutive_Sequence.py)
 
 ---
 

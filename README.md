@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **28** ✅  
+**Problems Solved:** **30** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -94,6 +94,10 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **35. Search Insert Position**  👉 [View Solution](./Arrays/35_SearchInsertPosition.py)
 
 - **34. Find First and Last Position of Element in Sorted Array**  👉 [View Solution](./Arrays/34_First&LastElementInSortedArray.py)
+
+- **151. Reverse Words In A String** 👉 [View Solution](./Strings/151_ReverseWordsInAString.py)
+
+- **162. Find Peak Element** 👉 [View Solution](./Arrays/162_FindPeakElement.py)
 
 ---
 

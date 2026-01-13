@@ -27,3 +27,4 @@ def findPeakElement(nums):
                 high = mid
 
         return low
+        

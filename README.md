@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **30** ✅  
+**Problems Solved:** **32** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -99,6 +99,9 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 - **162. Find Peak Element** 👉 [View Solution](./Arrays/162_FindPeakElement.py)
 
+- **69. Sqrt(x)** 👉 [View Solution](./Arrays/69_Sqrt(x).py)
+
+- **367. Valid Perfect Square** 👉 [View Solution](./Arrays/367_ValidPerfectSquare.py)
 ---
 
 ## 🧠 Notes

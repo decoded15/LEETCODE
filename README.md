@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **32** ✅  
+**Problems Solved:** **33** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions

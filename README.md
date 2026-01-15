@@ -102,6 +102,9 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **69. Sqrt(x)** 👉 [View Solution](./Arrays/69_Sqrt(x).py)
 
 - **367. Valid Perfect Square** 👉 [View Solution](./Arrays/367_ValidPerfectSquare.py)
+
+- **153: Find Minimum in Rotated Sorted Array** 👉 [View Solution](./Arrays/153_FindMinimumInRotatedSortedArray.py)
+
 ---
 
 ## 🧠 Notes

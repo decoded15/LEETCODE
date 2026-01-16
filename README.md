@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **33** ✅  
+**Problems Solved:** **35** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -104,6 +104,10 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **367. Valid Perfect Square** 👉 [View Solution](./Arrays/367_ValidPerfectSquare.py)
 
 - **153: Find Minimum in Rotated Sorted Array** 👉 [View Solution](./Arrays/153_FindMinimumInRotatedSortedArray.py)
+
+- **33: Search in Rotated Sorted Array** 👉 [View Solution](./Arrays/33_SearchInRotatedSortedArray.py)
+
+- **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
 
 ---
 

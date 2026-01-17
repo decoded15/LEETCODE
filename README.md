@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **35** ✅  
+**Problems Solved:** **36** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -108,6 +108,12 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **33: Search in Rotated Sorted Array** 👉 [View Solution](./Arrays/33_SearchInRotatedSortedArray.py)
 
 - **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
+
+---
+
+### 🔹 Stack
+
+- **20: Valid Parentheses** 👉 [View Solution](./Stack/20_ValidParenthesis.py)
 
 ---
 

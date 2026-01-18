@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **36** ✅  
+**Problems Solved:** **37** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -114,6 +114,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ### 🔹 Stack
 
 - **20: Valid Parentheses** 👉 [View Solution](./Stack/20_ValidParenthesis.py)
+
+- **1047: Remove All Adjacent Duplicates in String** 👉 [View Solution](./Stack/1047_RemoveAllAdjacentDuplicatesInString.py)
 
 ---
 

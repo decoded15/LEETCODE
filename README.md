@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **37** ✅  
+**Problems Solved:** **39** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -118,6 +118,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **1047: Remove All Adjacent Duplicates in String** 👉 [View Solution](./Stack/1047_RemoveAllAdjacentDuplicatesInString.py)
 
 - **682: Baseball Game** 👉 [View Solution](./Stack/682_BaseballGame.py)
+
+- **155: Min Stack** 👉 [View Solution](./Stack/155_MinStack.py)
 
 ---
 

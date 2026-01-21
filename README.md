@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **39** ✅  
+**Problems Solved:** **40** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -120,6 +120,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **682: Baseball Game** 👉 [View Solution](./Stack/682_BaseballGame.py)
 
 - **155: Min Stack** 👉 [View Solution](./Stack/155_MinStack.py)
+
+- **496: Next Greater Element I** 👉 [View Solution](./Stack/496_NextGreaterElementI.py)
 
 ---
 

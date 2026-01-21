@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **40** ✅  
+**Problems Solved:** **41** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -122,6 +122,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **155: Min Stack** 👉 [View Solution](./Stack/155_MinStack.py)
 
 - **496: Next Greater Element I** 👉 [View Solution](./Stack/496_NextGreaterElementI.py)
+
+- **739: Daily Temperatures** 👉 [View Solution](./Stack/739_DailyTemperatures.py)
 
 ---
 

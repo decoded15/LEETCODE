@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **41** ✅  
+**Problems Solved:** **42** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -124,6 +124,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **496: Next Greater Element I** 👉 [View Solution](./Stack/496_NextGreaterElementI.py)
 
 - **739: Daily Temperatures** 👉 [View Solution](./Stack/739_DailyTemperatures.py)
+
+- **844: Backspace String Compare** 👉 [View Solution](./Stack/844_BackspaceStringCompare.py)
 
 ---
 

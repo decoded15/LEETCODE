@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **42** ✅  
+**Problems Solved:** **43** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -127,6 +127,11 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **844: Backspace String Compare** 👉 [View Solution](./Stack/844_BackspaceStringCompare.py)
 
 ---
+
+### 🔹 Linked List
+
+- **206: Reverse Linked List** 👉 [View Solution](./LinkedList/206_ReverseLinkedList.py)
+
 
 ## 🧠 Notes
 - Focus is on **clean logic and optimal solutions**

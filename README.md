@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **44** ✅  
+**Problems Solved:** **46** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -134,7 +134,9 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 - **876: Middle of the Linked List** 👉 [View Solution](./LinkedList/876_MiddleOfLinkedList.py)
 
+- **141: Linked List Cycle** 👉 [View Solution](./LinkedList/141_LinkedListCycle.py)
 
+- **234: Palindrome Linked List** 👉 [View Solution](./LinkedList/234_PalindromeLinkedList.py)
 
 ## 🧠 Notes
 - Focus is on **clean logic and optimal solutions**

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **46** ✅  
+**Problems Solved:** **47** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -137,6 +137,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **141: Linked List Cycle** 👉 [View Solution](./LinkedList/141_LinkedListCycle.py)
 
 - **234: Palindrome Linked List** 👉 [View Solution](./LinkedList/234_PalindromeLinkedList.py)
+
+- **21: Merge Two Sorted Lists** 👉 [View Solution](./LinkedList/21_MergeTwoSortedLists.py)
 
 ## 🧠 Notes
 - Focus is on **clean logic and optimal solutions**

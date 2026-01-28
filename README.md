@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **47** ✅  
+**Problems Solved:** **48** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -139,6 +139,10 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **234: Palindrome Linked List** 👉 [View Solution](./LinkedList/234_PalindromeLinkedList.py)
 
 - **21: Merge Two Sorted Lists** 👉 [View Solution](./LinkedList/21_MergeTwoSortedLists.py)
+
+- **19: Remove Nth Node From End of List** 👉 [View Solution](./LinkedList/19_RemoveNthNodeFromEndofList.py)
+
+---
 
 ## 🧠 Notes
 - Focus is on **clean logic and optimal solutions**

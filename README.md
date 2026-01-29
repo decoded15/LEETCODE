@@ -147,6 +147,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 🧠 Notes
+
 - Focus is on **clean logic and optimal solutions**
 - Problems are solved with attention to **time and space complexity**
 - This repository will be **updated regularly** as I progress further in DSA

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **49** ✅  
+**Problems Solved:** **50** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -143,6 +143,9 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **19: Remove Nth Node From End of List** 👉 [View Solution](./LinkedList/19_RemoveNthNodeFromEndofList.py)
 
 - **83: Remove Duplicates from Sorted List** 👉 [View Solution](./LinkedList/83_RemoveDuplicatesfromSortedList.py)
+
+- **160: Intersection of Two Linked Lists** 👉 [View Solution](./LinkedList/160_IntersectionofTwoLinkedLists.py)
+
 
 ---
 

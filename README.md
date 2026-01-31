@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **50** ✅  
+**Problems Solved:** **51** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -145,6 +145,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **83: Remove Duplicates from Sorted List** 👉 [View Solution](./LinkedList/83_RemoveDuplicatesfromSortedList.py)
 
 - **160: Intersection of Two Linked Lists** 👉 [View Solution](./LinkedList/160_IntersectionofTwoLinkedLists.py)
+
+- **203: Remove Linked List Elements** 👉 [View Solution](./LinkedList/203_RemoveLinkedListElements.py)
 
 
 ---

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **52** ✅  
+**Problems Solved:** **54** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -128,6 +128,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 
 - **150: Evaluate Reverse Polish Notation** 👉 [View Solution](./Stack/150_EvaluateReversePolishNotation.py)
 
+- **1544: Make The String Great** 👉 [View Solution](./Stack/1544_MakeTheStringGreat.py)
+
 ---
 
 ### 🔹 Linked List
@@ -149,6 +151,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **160: Intersection of Two Linked Lists** 👉 [View Solution](./LinkedList/160_IntersectionofTwoLinkedLists.py)
 
 - **203: Remove Linked List Elements** 👉 [View Solution](./LinkedList/203_RemoveLinkedListElements.py)
+
+- **2: Add 2 Numbers** 👉 [View Solution](./LinkedList/2_Add2Numbers.py)
 
 ---
 

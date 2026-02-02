@@ -35,11 +35,11 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ## ✅ Problems Solved
 
 ### 🔹 Arrays
-- **1. Two Sum** 👉 [View Solution](./Arrays/1_Two_Sum.py)
+- **1. Two Sum** 👉 [View Solution](./Arrays/1_two_sum.py)
 
-- **217. Contains Duplicate** 👉 [View Solution](./Arrays/217_Duplicates.py)
+- **217. Contains Duplicate** 👉 [View Solution](./Arrays/217_duplicates.py)
 
-- **242. Valid Anagram** 👉 [View Solution](./Strings/242_Valid_Anagram.py)
+- **242. Valid Anagram** 👉 [View Solution](./Strings/242_valid_anagram.py)
 
 - **268. Missing Number** 👉 [View Solution](./Arrays/268_MissingNumber.py)
 

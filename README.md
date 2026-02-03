@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **54** ✅  
+**Problems Solved:** **55** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -153,6 +153,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **203: Remove Linked List Elements** 👉 [View Solution](./LinkedList/203_RemoveLinkedListElements.py)
 
 - **2: Add 2 Numbers** 👉 [View Solution](./LinkedList/2_Add2Numbers.py)
+
+- **92: Reverse Linked List II** 👉 [View Solution](./LinkedList/92_ReverseLinkedListII.py)
 
 ---
 

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **55** ✅  
+**Problems Solved:** **56** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -155,6 +155,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **2: Add 2 Numbers** 👉 [View Solution](./LinkedList/2_Add2Numbers.py)
 
 - **92: Reverse Linked List II** 👉 [View Solution](./LinkedList/92_ReverseLinkedListII.py)
+
+- **143: Reorder List** 👉 [View Solution](./LinkedList/143_ReorderList.py)
 
 ---
 

@@ -25,7 +25,7 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 ---
 
 ## 📊 Progress
-**Problems Solved:** **56** ✅  
+**Problems Solved:** **57** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -157,6 +157,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **92: Reverse Linked List II** 👉 [View Solution](./LinkedList/92_ReverseLinkedListII.py)
 
 - **143: Reorder List** 👉 [View Solution](./LinkedList/143_ReorderList.py)
+
+- **328: Odd Even Linked List** 👉 [View Solution](./LinkedList/328_OddEvenLinkedList.py)
 
 ---
 

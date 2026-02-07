@@ -1,31 +1,13 @@
-# 🚀 DSA Practice – LeetCode (Python)
+# DSA Practice – LeetCode (Python)
 
 This repository contains my solutions to **Data Structures & Algorithms (DSA)** problems from **LeetCode**, implemented in **Python**.
 
-## 📘 Python DSA Handbook
-I’ve created a beginner-friendly Python handbook to make starting LeetCode less intimidating.
-It covers:
-- Python basics (for absolute beginners)
-- Built-in functions used in DSA
-- Important problem-solving patterns
-
 📘 **Handbook:** [LEET Handbook.pdf](Handbook/LEET%20Handbook.pdf)
-
-This handbook is meant to be a **comfort guide** — not a shortcut.
-
-## 🧩 Problem Solving Approach
-- Focus on understanding patterns
-- Start with Easy problems
-- Prioritize clarity over speed
-- Revisit mistakes and learn from them
-
-## 🎯 Goal
-Build strong DSA fundamentals using Python and stay consistent with practice.
 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **57** ✅  
+**Problems Solved:** **58** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -159,6 +141,8 @@ Build strong DSA fundamentals using Python and stay consistent with practice.
 - **143: Reorder List** 👉 [View Solution](./LinkedList/143_ReorderList.py)
 
 - **328: Odd Even Linked List** 👉 [View Solution](./LinkedList/328_OddEvenLinkedList.py)
+
+- **24: Swap Nodes in Pairs** 👉 [View Solution](./LinkedList/24_SwapNodesInPairs.py)
 
 ---
 

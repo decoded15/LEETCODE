@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **58** ✅  
+**Problems Solved:** **59** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -143,6 +143,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **328: Odd Even Linked List** 👉 [View Solution](./LinkedList/328_OddEvenLinkedList.py)
 
 - **24: Swap Nodes in Pairs** 👉 [View Solution](./LinkedList/24_SwapNodesInPairs.py)
+
+- **237: Delete Node in a Linked List** 👉 [View Solution](./LinkedList/237_DeleteNodeinaLinkedList.py)
 
 ---
 

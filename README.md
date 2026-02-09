@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **59** ✅  
+**Problems Solved:** **60** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -145,6 +145,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **24: Swap Nodes in Pairs** 👉 [View Solution](./LinkedList/24_SwapNodesInPairs.py)
 
 - **237: Delete Node in a Linked List** 👉 [View Solution](./LinkedList/237_DeleteNodeinaLinkedList.py)
+
+- **1290: Convert Binary Number in a Linked List to Integer** 👉 [View Solution](./LinkedList/1290_ConvertBinaryNumberinaLinkedListtoInteger.py)
 
 ---
 

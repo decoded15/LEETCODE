@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **60** ✅  
+**Problems Solved:** **61** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -111,6 +111,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **150: Evaluate Reverse Polish Notation** 👉 [View Solution](./Stack/150_EvaluateReversePolishNotation.py)
 
 - **1544: Make The String Great** 👉 [View Solution](./Stack/1544_MakeTheStringGreat.py)
+
+- **232: Implement Queue using Stacks** 👉 [View Solution](./Stack/232_ImplementQueueusingStacks.py)
 
 ---
 

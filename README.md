@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **61** ✅  
+**Problems Solved:** **62** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -151,6 +151,10 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **1290: Convert Binary Number in a Linked List to Integer** 👉 [View Solution](./LinkedList/1290_ConvertBinaryNumberinaLinkedListtoInteger.py)
 
 ---
+
+### 🔹 Dynamic Programming
+
+- **70: Climbing Stairs** 👉 [View Solution](./LinkedList/70_ClimbingStairs.py)
 
 ## 🧠 Notes
 

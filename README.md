@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **63** ✅  
+**Problems Solved:** **64** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -151,6 +151,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **1290: Convert Binary Number in a Linked List to Integer** 👉 [View Solution](./LinkedList/1290_ConvertBinaryNumberinaLinkedListtoInteger.py)
 
 - **61: Rotate List** 👉 [View Solution](./LinkedList/61_RotateList.py)
+
+- **1721: Swapping Nodes in a Linked List** 👉 [View Solution](./LinkedList/1721_SwappingNodesinaLinkedList.py)
 
 ---
 

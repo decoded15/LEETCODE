@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **64** ✅  
+**Problems Solved:** **65** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -89,6 +89,9 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **33: Search in Rotated Sorted Array** 👉 [View Solution](./Arrays/33_SearchInRotatedSortedArray.py)
 
 - **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
+
+- **67: Add Binary** 👉 [View Solution](./Strings/67_AddBinary.py)
+
 
 ---
 

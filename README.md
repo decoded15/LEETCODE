@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **65** ✅  
+**Problems Solved:** **66** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -90,9 +90,6 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 - **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
 
-- **67: Add Binary** 👉 [View Solution](./Strings/67_AddBinary.py)
-
-
 ---
 
 ### 🔹 Stack
@@ -162,6 +159,12 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ### 🔹 Dynamic Programming
 
 - **70: Climbing Stairs** 👉 [View Solution](./LinkedList/70_ClimbingStairs.py)
+
+### 🔹 Feb Daily Coding Questions
+
+- **67: Add Binary** 👉 [View Solution](./Feb_Daily_Coding_Questions/67_AddBinary.py)
+
+- **190: Reverse Bits** 👉 [View Solution](./Feb_Daily_Coding_Questions/190_ReverseBits.py)
 
 ## 🧠 Notes
 

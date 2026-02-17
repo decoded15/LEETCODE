@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **67** ✅  
+**Problems Solved:** **68** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -168,9 +168,10 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 - **190: Reverse Bits** 👉 [View Solution](./Feb_Daily_Coding_Questions/190_ReverseBits.py)
 
+- **401: Binary Watch** 👉 [View Solution](./Feb_Daily_Coding_Questions/401_BinaryWatch.py)
+
 ## 🧠 Notes
 
 - Focus is on **clean logic and optimal solutions**
 - Problems are solved with attention to **time and space complexity**
 - This repository will be **updated regularly** as I progress further in DSA
-

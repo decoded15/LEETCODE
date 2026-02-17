@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **66** ✅  
+**Problems Solved:** **67** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -153,6 +153,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **61: Rotate List** 👉 [View Solution](./LinkedList/61_RotateList.py)
 
 - **1721: Swapping Nodes in a Linked List** 👉 [View Solution](./LinkedList/1721_SwappingNodesinaLinkedList.py)
+
+- **86: Partition List** 👉 [View Solution](./LinkedList/86_PartitionList.py)
 
 ---
 

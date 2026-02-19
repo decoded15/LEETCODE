@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **69** ✅  
+**Problems Solved:** **70** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -171,6 +171,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **401: Binary Watch** 👉 [View Solution](./Feb_Daily_Coding_Questions/401_BinaryWatch.py)
 
 - **693: Binary Number with Alternating Bits** 👉 [View Solution](./Feb_Daily_Coding_Questions/693_BinaryNumberwithAlternatingBits.py)
+
+- **696: Count Binary Substrings** 👉 [View Solution](./Feb_Daily_Coding_Questions/696_CountBinarySubstrings.py)
 
 ## 🧠 Notes
 

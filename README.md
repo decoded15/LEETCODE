@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **70** ✅  
+**Problems Solved:** **71** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -16,7 +16,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 ## ✅ Problems Solved
 
-### 🔹 Arrays
+### 🔹 Arrays and Strings
 - **1. Two Sum** 👉 [View Solution](./Arrays/1_two_sum.py)
 
 - **217. Contains Duplicate** 👉 [View Solution](./Arrays/217_duplicates.py)
@@ -89,6 +89,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **33: Search in Rotated Sorted Array** 👉 [View Solution](./Arrays/33_SearchInRotatedSortedArray.py)
 
 - **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
+
+- **58: Length of Last Word** 👉 [View Solution](./Strings/58_LengthofLastWord.py)
 
 ---
 

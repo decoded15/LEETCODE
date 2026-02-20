@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **71** ✅  
+**Problems Solved:** **72** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -175,6 +175,13 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **693: Binary Number with Alternating Bits** 👉 [View Solution](./Feb_Daily_Coding_Questions/693_BinaryNumberwithAlternatingBits.py)
 
 - **696: Count Binary Substrings** 👉 [View Solution](./Feb_Daily_Coding_Questions/696_CountBinarySubstrings.py)
+
+
+### 🔹 DSA Quest
+
+- **485: Max Consecutive Ones** 👉 [View Solution](./Feb_Daily_Coding_Questions/485_MaxConsecutiveOnes.py)
+
+
 
 ## 🧠 Notes
 

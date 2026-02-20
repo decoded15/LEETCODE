@@ -179,10 +179,9 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 ### 🔹 DSA Quest
 
-- **485: Max Consecutive Ones** 👉 [View Solution](./Feb_Daily_Coding_Questions/485_MaxConsecutiveOnes.py)
+- **485: Max Consecutive Ones** 👉 [View Solution](./DSA_Quest/485_MaxConsecutiveOnes.py)
 
-- **1470: Shuffle the Array** 👉 [View Solution](./Feb_Daily_Coding_Questions/1470_ShuffletheArray.py)
-
+- **1470: Shuffle the Array** 👉 [View Solution](./DSA_Quest/1470_ShuffletheArray.py)
 
 ## 🧠 Notes
 

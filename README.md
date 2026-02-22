@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **74** ✅  
+**Problems Solved:** **75** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -177,6 +177,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **696: Count Binary Substrings** 👉 [View Solution](./Feb_Daily_Coding_Questions/696_CountBinarySubstrings.py)
 
 - **762: Prime Number of Set Bits in Binary Representation** 👉 [View Solution](./Feb_Daily_Coding_Questions/762_PrimeNumberofSetBitsinBinaryRepresentation.py)
+
+- **868: Binary Gap** 👉 [View Solution](./Feb_Daily_Coding_Questions/868_BinaryGap.py)
 
 ### 🔹 DSA Quest
 

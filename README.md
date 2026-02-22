@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **75** ✅  
+**Problems Solved:** **76** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -185,6 +185,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **485: Max Consecutive Ones** 👉 [View Solution](./DSA_Quest/485_MaxConsecutiveOnes.py)
 
 - **1470: Shuffle the Array** 👉 [View Solution](./DSA_Quest/1470_ShuffletheArray.py)
+
+- **1929: Concatenation of Array** 👉 [View Solution](./DSA_Quest/1929_ConcatenationofArray.py)
 
 ## 🧠 Notes
 

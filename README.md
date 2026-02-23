@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **76** ✅  
+**Problems Solved:** **77** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -179,6 +179,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **762: Prime Number of Set Bits in Binary Representation** 👉 [View Solution](./Feb_Daily_Coding_Questions/762_PrimeNumberofSetBitsinBinaryRepresentation.py)
 
 - **868: Binary Gap** 👉 [View Solution](./Feb_Daily_Coding_Questions/868_BinaryGap.py)
+
+- **1461: Check If a String Contains All Binary Codes of Size K** 👉 [View Solution](./Feb_Daily_Coding_Questions/1461_CheckIfaStringContainsAllBinaryCodesofSizeK.py)
 
 ### 🔹 DSA Quest
 

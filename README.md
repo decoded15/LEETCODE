@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **77** ✅  
+**Problems Solved:** **79** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -188,7 +188,13 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 - **1470: Shuffle the Array** 👉 [View Solution](./DSA_Quest/1470_ShuffletheArray.py)
 
+- **How Many Numbers Are Smaller Than the Current Number** 👉 [View Solution](./DSA_Quest/HowManyNumbersAreSmallerThantheCurrentNumber.py)
+
+- **Set Mismatch** 👉 [View Solution](./DSA_Quest/SetMismatch.py)
+
 - **1929: Concatenation of Array** 👉 [View Solution](./DSA_Quest/1929_ConcatenationofArray.py)
+
+
 
 ## 🧠 Notes
 

@@ -182,6 +182,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 - **1461: Check If a String Contains All Binary Codes of Size K** 👉 [View Solution](./Feb_Daily_Coding_Questions/1461_CheckIfaStringContainsAllBinaryCodesofSizeK.py)
 
+- **1356: Sort Integers by The Number of 1 Bits** 👉 [View Solution](./Feb_Daily_Coding_Questions/1356_SortIntegersbyTheNumberof1Bits.py)
+
 ### 🔹 DSA Quest
 
 - **485: Max Consecutive Ones** 👉 [View Solution](./DSA_Quest/485_MaxConsecutiveOnes.py)

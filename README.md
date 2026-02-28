@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **81** ✅  
+**Problems Solved:** **82** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -195,6 +195,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **How Many Numbers Are Smaller Than the Current Number** 👉 [View Solution](./DSA_Quest/HowManyNumbersAreSmallerThantheCurrentNumber.py)
 
 - **Set Mismatch** 👉 [View Solution](./DSA_Quest/SetMismatch.py)
+
+- **Exclusive Time of Functions** 👉 [View Solution](./DSA_Quest/ExclusiveTimeofFunctions.py)
 
 - **1929: Concatenation of Array** 👉 [View Solution](./DSA_Quest/1929_ConcatenationofArray.py)
 

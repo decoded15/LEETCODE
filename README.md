@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **80** ✅  
+**Problems Solved:** **81** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -198,7 +198,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 
 - **1929: Concatenation of Array** 👉 [View Solution](./DSA_Quest/1929_ConcatenationofArray.py)
 
-
+- **Evaluate Reverse Polish Notation** 👉 [View Solution](./DSA_Quest/EvaluateReversePolishNotation.py)
 
 ## 🧠 Notes
 

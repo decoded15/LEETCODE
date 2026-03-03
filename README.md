@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **83** ✅  
+**Problems Solved:** **84** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -203,6 +203,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **Evaluate Reverse Polish Notation** 👉 [View Solution](./DSA_Quest/EvaluateReversePolishNotation.py)
 
 - **Final Prices With a Special Discount in a Shop** 👉 [View Solution](./DSA_Quest/FinalPricesWithSpecialDiscountinaShop.py)
+
+- **Daily Temperatures** 👉 [View Solution](./DSA_Quest/DailyTemperatures.py)
 
 ## 🧠 Notes
 

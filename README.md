@@ -7,7 +7,7 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 ---
 
 ## 📊 Progress
-**Problems Solved:** **84** ✅  
+**Problems Solved:** **85** ✅  
 *(Continuously updating)*
 
 ## 📘 Explained Solutions
@@ -91,6 +91,8 @@ This repository contains my solutions to **Data Structures & Algorithms (DSA)** 
 - **1295: Find Numbers with Even Number of Digits** 👉 [View Solution](./Arrays/1295_FindNumberswithEvenNumberofDigits.py)
 
 - **58: Length of Last Word** 👉 [View Solution](./Strings/58_LengthofLastWord.py)
+
+- **14: Longest Common Prefix** 👉 [View Solution](./Strings/14_LongestCommonPrefix.py)
 
 ---
 
